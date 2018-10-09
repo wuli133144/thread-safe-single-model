@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jackwu/prject/test2/main.cpp
+iostream
+-
+thread
+-
+mutex
+-
+condition_variable
+-
+future
+-
+chrono
+-
+string
+-
+vector
+-
+array
+-
+atomic
+-
+stdio.h
+-
+unordered_map
+-
+deque
+-
+functional
+-
+algorithm
+-
+unistd.h
+-
+

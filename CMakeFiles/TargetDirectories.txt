@@ -1,0 +1,3 @@
+/home/jackwu/prject/test2/CMakeFiles/rebuild_cache.dir
+/home/jackwu/prject/test2/CMakeFiles/test.dir
+/home/jackwu/prject/test2/CMakeFiles/edit_cache.dir
